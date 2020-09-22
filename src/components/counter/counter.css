@@ -2,13 +2,23 @@ button{
   font-size: 20px;
   background-color: greenyellow;
   padding: 15px 30px;
-  color:honeydew;
+  color:white;
   width: 100px ;
 }
 .count{
-  font-size: 20px;
+  font-size: 40px;
   background-color:rgb(255, 255, 255);
   padding: 15px 30px;
   color:rgb(185, 63, 63);
   width: 100px ;
+}
+.reset{
+  font-size: 16px;
+  background-color:rgb(211, 10, 10);
+  padding: 15px 30px;
+  color:white;
+  width: 200px ;
+}
+body{
+  padding: 15px 30px;
 }
